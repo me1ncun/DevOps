@@ -3,7 +3,7 @@
 
 class FuncClass{
 public:
-	double FuncA();
+	double FuncA(int n); // Added int as a parameter
 };
 
 #endif
